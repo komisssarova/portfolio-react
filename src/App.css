@@ -1,19 +1,16 @@
 body {
   background-color: #f9f7fe;
   text-align: center;
-  
 }
 
 a {
   color: #9670f4;
   text-decoration: none;
-  
 }
 img {
   box-shadow: #9670f4;
   max-width: 300px;
   margin: 15px;
-  
 }
 
 .App {
@@ -35,7 +32,6 @@ img {
 .WeatherImg {
   text-align: right;
   padding-bottom: 20px;
-  
 }
 
 .App-footer {
@@ -43,8 +39,13 @@ img {
   margin: 30px 0;
 }
 
+.justify-content-between {
+  justify-content: space-between!important;
+}
+.d-flex {
+  display: flex!important;
+}
 
-
-
-
-
+img {
+  width: 300px;
+}

@@ -1,11 +1,14 @@
 .About {
+    max-width: 0 auto;
     padding-top: 0 auto;
-    background-color: rgba(231, 243, 243, 0.959);
     padding: 5px 5px 80px 5px;
     border-radius: 7px;
 }
 h1, h2  {
     font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
+    
+}
+img .img-thumbnail {
+    width: 200px;
 }
 
